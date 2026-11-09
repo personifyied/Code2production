@@ -7,7 +7,7 @@ You're the product owner. Claude plans with you, turns the plan into small ticke
 Inside Claude Code:
 
 ```
-/plugin marketplace add YOUR-GITHUB-USERNAME/code2production
+/plugin marketplace add personifyied/Code2production
 /plugin install code2production@c2p
 ```
 
