@@ -1,0 +1,6 @@
+{
+  "name": "code2production",
+  "version": "1.0.0",
+  "description": "Plan with you as product owner, then build with a lean team of subagents (Haiku/Sonnet/Opus per ticket), QA, free commit checks, and a project log + lessons second brain.",
+  "license": "MIT"
+}

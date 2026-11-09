@@ -1,0 +1,11 @@
+{
+  "name": "c2p",
+  "owner": { "name": "Johnson" },
+  "plugins": [
+    {
+      "name": "code2production",
+      "source": "./",
+      "description": "Lean plan-to-production workflow with subagents, picking the cheapest Claude model per ticket."
+    }
+  ]
+}
